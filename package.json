@@ -2,7 +2,6 @@
   "name": "frontend-rtk",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:4000/",
   "dependencies": {
     "@geist-ui/core": "^2.3.8",
     "@reduxjs/toolkit": "^1.8.3",
